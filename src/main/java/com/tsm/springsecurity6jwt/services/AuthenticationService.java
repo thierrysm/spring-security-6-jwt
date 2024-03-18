@@ -1,6 +1,5 @@
 package com.tsm.springsecurity6jwt.services;
 
-import lombok.AllArgsConstructor;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
 
